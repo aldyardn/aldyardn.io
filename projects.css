@@ -1,0 +1,76 @@
+.ga{
+    background-image: url(assets/img/pngegg.png);
+    background-size: 578px;
+    background-repeat: repeat;
+    background-position-x: right;
+}
+.gi{
+    background-image: url(assets/img/a.png);
+    background-size: 578px;
+    background-repeat: repeat;
+    background-position-x: right;
+}
+.gu{
+    background-image: url(assets/img/b.png);
+    background-size: 578px;
+    background-repeat: repeat;
+    background-position-x: right;
+}
+.text-hitam{
+    color: #000000;
+}
+.hero {
+    width: 100%;
+    height: 100vh;
+    background: url(assets/img/hero-bg-1.jpg) top center no-repeat;
+    background-size: cover;
+}
+
+/* section */
+section {
+    padding: 60px 0;
+    overflow: hidden;
+}
+
+.section-header{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.section-header {
+    font-size: 38px;
+    margin: 10px 0 0 0;
+    padding: 0;
+    font-weight: 700;
+    line-height: 42px;
+    color: #012970;
+}
+
+/* ---VALUES--- */
+.values .box {
+    padding: 30px;
+    text-align: center;
+    box-shadow: 10px 0 5px rgb(1, 42, 112, 0.08);
+}
+
+/* CONTACT */
+.contact .info-box h3{
+    color: #444444;
+    background: #fafbff;
+    padding: 30px;
+}
+.contact ,info-box h3 {
+    font-size: 20px;
+    color: #012970;
+    font-weight: 700;
+    margin: 20px 0 10px;
+}
+.contact .info-box p{
+    padding: o;
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0%;
+}
+
+.bego{
+    background-color: #ffffff;
+}
